@@ -1,0 +1,10 @@
+# stdio.
+#stdconio.h
+
+int main()
+
+{
+
+Printf("Hello World");
+
+}
